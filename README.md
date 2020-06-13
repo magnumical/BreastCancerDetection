@@ -9,9 +9,13 @@ Dataset: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(origin
 Easy and understandable for diving into medical data processing!
 Classifier: SVM
 
-##Used libraries:
+Used libraries:
 numpy
+
 pandas
+
 pandas.plotting
+
 matplotlib.pyplot
+
 sklearn
